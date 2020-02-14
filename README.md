@@ -11,14 +11,14 @@ Who's responsible?
 -------------------
 Andrii Neronov, Andrea Tramacere
 
-ISDC Data Centre for Astrophysics, Astronomy Department of the University of Geneva, Chemin d'Ecogia 16, CH-1290 Versoix, Switzerland
-
+Common Data Center Infrastructure, Astronomy Department of the University of Geneva, Chemin d'Ecogia 16, CH-1290 Versoix, Switzerland
 
 
 
 Documentation
 -------------------
-https://oda-api.readthedocs.io/en/latest/
+
+https://github.com/cdcihub/oda_api
 
 
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/cdcihub/oda_api_benchmark/master)
