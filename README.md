@@ -9,7 +9,7 @@ oda_api is distributed under the terms of The MIT License.
 
 Who's responsible?
 -------------------
-Andrii Neronov, Andrea Tramacere
+Andrii Neronov, Volodymyr Savchenko, Andrea Tramacere
 
 Common Data Center Infrastructure, Astronomy Department of the University of Geneva, Chemin d'Ecogia 16, CH-1290 Versoix, Switzerland
 
